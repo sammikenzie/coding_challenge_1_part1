@@ -9,8 +9,8 @@ Fork this repo as a base. You may change any code in this repository to suit the
 # Submission
 1. A github repo that has been forked from this repo with all your code.
 2. Modify this README file with instructions for:
-a. Any tools needed to deploy your infrastructure
-b. All the steps needed to repeat your deployment process
+* Any tools needed to deploy your infrastructure
+* All the steps needed to repeat your deployment process
 3. URLs to the your deployed frontend.
 
 # Evaluation
