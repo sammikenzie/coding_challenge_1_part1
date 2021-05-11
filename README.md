@@ -11,7 +11,7 @@ Fork this repo as a base. You may change any code in this repository to suit the
 2. Modify this README file with instructions for:
 * Any tools needed to deploy your infrastructure
 * All the steps needed to repeat your deployment process
-3. URLs to the your deployed frontend.
+* URLs to the your deployed frontend.
 
 # Evaluation
 You will be evaluated on the ease to replicate your infrastructure. This is a combination of quality of the instructions, as well as any scripts to automate the overall setup process.
