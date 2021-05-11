@@ -2,22 +2,16 @@
 This repository contains a React frontend, and an Express backend that the frontend connects to.
 
 # Objective
-Deploy the frontend and backend in 2 environments - Dev and Prod. Both environments must be accessible over the public internet.
-
-The Prod environment must have some kind of mechanism to scale the backend.
+Deploy the frontend and backend to somewhere publicly accessible over the internet. The AWS Free Tier should be more than sufficient to run this project, but you may use any platform and tooling you'd like for your solution.
 
 Fork this repo as a base. You may change any code in this repository to suit the infrastructure you build in this code challenge.
-
-If you have any questions or concerns about this challenge, you may contact daniel@lightfeather.io
 
 # Submission
 1. A github repo that has been forked from this repo with all your code.
 2. Modify this README file with instructions for:
 a. Any tools needed to deploy your infrastructure
-b. All the steps to deploy a replica of your Dev and Prod infrastructure
-c. Steps to scale the production backend up or down, if scaling requires manual intervention. If its auto-scaled, describe the auto-scaling mechanism.
-d. URLs to the deployed Dev and Prod frontends
-4. Submit your github and contact information via https://forms.gle/DNaQn2S9VGueSACdA
+b. All the steps needed to repeat your deployment process
+3. URLs to the your deployed frontend.
 
 # Evaluation
 You will be evaluated on the ease to replicate your infrastructure. This is a combination of quality of the instructions, as well as any scripts to automate the overall setup process.
